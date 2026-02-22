@@ -1,0 +1,15 @@
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\bin\Debug\net10.0\PL.exe
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\bin\Debug\net10.0\PL.deps.json
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\bin\Debug\net10.0\PL.runtimeconfig.json
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\bin\Debug\net10.0\PL.dll
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\bin\Debug\net10.0\PL.pdb
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\obj\Debug\net10.0\PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\obj\Debug\net10.0\PL.AssemblyInfoInputs.cache
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\obj\Debug\net10.0\PL.AssemblyInfo.cs
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\obj\Debug\net10.0\PL.csproj.CoreCompileInputs.cache
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\obj\Debug\net10.0\PL.sourcelink.json
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\obj\Debug\net10.0\PL.dll
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\obj\Debug\net10.0\refint\PL.dll
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\obj\Debug\net10.0\PL.pdb
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\obj\Debug\net10.0\PL.genruntimeconfig.cache
+C:\Users\xzemt\OneDrive\Documents\C#_Net\C#_projects\Db_deuProj\pl\obj\Debug\net10.0\ref\PL.dll

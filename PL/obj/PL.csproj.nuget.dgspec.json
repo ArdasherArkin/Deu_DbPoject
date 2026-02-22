@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xzemt\\OneDrive\\Documents\\C#_Net\\C#_projects\\Db_deuProj\\PL\\PL.csproj": {}
+    "C:\\Users\\xzemt\\OneDrive\\Documents\\C#_Net\\C#_projects\\Db_deuProj\\pl\\PL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xzemt\\OneDrive\\Documents\\C#_Net\\C#_projects\\Db_deuProj\\PL\\PL.csproj": {
+    "C:\\Users\\xzemt\\OneDrive\\Documents\\C#_Net\\C#_projects\\Db_deuProj\\pl\\PL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xzemt\\OneDrive\\Documents\\C#_Net\\C#_projects\\Db_deuProj\\PL\\PL.csproj",
+        "projectUniqueName": "C:\\Users\\xzemt\\OneDrive\\Documents\\C#_Net\\C#_projects\\Db_deuProj\\pl\\PL.csproj",
         "projectName": "PL",
-        "projectPath": "C:\\Users\\xzemt\\OneDrive\\Documents\\C#_Net\\C#_projects\\Db_deuProj\\PL\\PL.csproj",
+        "projectPath": "C:\\Users\\xzemt\\OneDrive\\Documents\\C#_Net\\C#_projects\\Db_deuProj\\pl\\PL.csproj",
         "packagesPath": "C:\\Users\\xzemt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xzemt\\OneDrive\\Documents\\C#_Net\\C#_projects\\Db_deuProj\\PL\\obj\\",
+        "outputPath": "C:\\Users\\xzemt\\OneDrive\\Documents\\C#_Net\\C#_projects\\Db_deuProj\\pl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xzemt\\AppData\\Roaming\\NuGet\\NuGet.Config"
